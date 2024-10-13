@@ -16,3 +16,9 @@ A text-based adventure game set in the fantasy world of Ixonia.
    ```bash
    java Main
    ```
+
+### Features
+- 3 Endings
+- 3 Unique Puzzles
+- NPCS with extended dialogue trees
+- Inventory
